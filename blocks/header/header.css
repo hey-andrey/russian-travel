@@ -1,0 +1,6 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+
+  font-family: 'Inter', 'Arial', 'sans-serif';
+}
