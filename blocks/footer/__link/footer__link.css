@@ -8,9 +8,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 1.12;
-  text-align: right;
-
-  justify-self: flex-end;
 
   opacity: 1;
   transition: opacity 0.3s ease-in-out;
@@ -20,7 +17,7 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 620px) and (min-width: 320px) {
+@media screen and (max-width: 620px) {
   .footer__link {
     font-size: 24px;
     line-height: 1;

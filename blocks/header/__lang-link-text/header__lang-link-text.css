@@ -9,7 +9,7 @@
   color: #FFFFFF;
 }
 
-@media screen and (max-width: 520px) and (min-width: 320px) {
+@media screen and (max-width: 520px) {
   .header__lang-link-text {
     font-size: 18px;
     line-height: 1.11;

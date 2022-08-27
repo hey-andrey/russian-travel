@@ -7,20 +7,20 @@
   font-family: 'Inter', 'Arial', 'sans-serif';
 }
 
-@media screen and (max-width: 1160px) and (min-width: 1024px) {
+@media screen and (max-width: 1080px){
   .intro {
     max-width: calc(100% - 48px * 2);
 }
 }
 
-@media screen and (max-width: 840px) and (min-width: 768px) {
+@media screen and (max-width: 840px) {
   .intro {
     max-width: calc(100% - 24px * 2);
     padding: 88px 0 0;
   }
 }
 
-@media screen and (max-width: 520px) and (min-width: 320px) {
+@media screen and (max-width: 520px) {
   .intro {
     max-width: calc(100% - 16px * 2);
     padding: 64px 0 0;

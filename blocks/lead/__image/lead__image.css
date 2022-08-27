@@ -3,13 +3,13 @@
   width: 100%;
 }
 
-@media screen and (max-width: 1160px) and (min-width: 1024px) {
+@media screen and (max-width: 1160px) {
   .lead__image {
     margin: 56px 0 0;
   }
 }
 
-@media screen and (max-width: 520px) and (min-width: 320px) {
+@media screen and (max-width: 520px) {
   .lead__image {
     margin: 40px 0 0;
   }

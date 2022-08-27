@@ -13,7 +13,7 @@
   align-self: center;
 }
 
-@media screen and (max-width: 740px) and (min-width: 320px) {
+@media screen and (max-width: 740px) {
   .lead__title {
     font-size: 60px;
     line-height: 1.04;
@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 520px) and (min-width: 320px) {
+@media screen and (max-width: 520px) {
   .lead__title {
     width: 288px;
     font-size: 40px;

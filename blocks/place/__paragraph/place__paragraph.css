@@ -1,4 +1,4 @@
-.place_paragraph {
+.place__paragraph {
   margin: 26px 0 0;
   padding: 0;
 
@@ -10,18 +10,18 @@
   grid-row: 2;
 }
 
-.place_paragraph:first-of-type {
+.place__paragraph:first-of-type {
   margin: 0;
 }
 
-@media screen and (max-width: 840px) and (min-width: 768px) {
-  .place_paragraph {
+@media screen and (max-width: 840px) {
+  .place__paragraph {
     font-size: 16px;
   }
 }
 
-@media screen and (max-width: 620px) and (min-width: 320px) {
-  .place_paragraph {
+@media screen and (max-width: 620px) {
+  .place__paragraph {
     grid-row: 3;
     grid-column: 1;
     width: calc(100vw - 16px * 2)

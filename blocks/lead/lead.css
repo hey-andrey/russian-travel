@@ -11,14 +11,14 @@
   font-family: 'Inter', 'Arial', 'sans-serif';
 }
 
-@media screen and (max-width: 1160px) and (min-width: 1024px) {
+@media screen and (max-width: 1160px) {
   .lead {
     padding: 48px 0 0;
     max-width: calc(100% - 48px * 2);
   }
 }
 
-@media screen and (max-width: 840px) and (min-width: 768px) {
+@media screen and (max-width: 840px) {
   .lead {
     max-width: 100%;
   }

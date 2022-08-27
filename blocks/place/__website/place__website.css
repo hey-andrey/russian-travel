@@ -5,8 +5,10 @@
   align-self: end;
 }
 
-@media screen and (max-width: 620px) and (min-width: 320px) {
+@media screen and (max-width: 620px) {
   .place__website {
-    display: none;
+    align-self: flex-start;
+    max-width: 288px;
+    margin: 0px 16px;
   }
 }
