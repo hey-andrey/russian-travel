@@ -9,7 +9,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_type/header__lang-link_active.css);
+@import url(../blocks/header/__lang-link/_underline/header__lang-link_underline.css);
 @import url(../blocks/header/__lang-link-text/header__lang-link-text.css);
 
 /* блок lead */
