@@ -21,8 +21,10 @@
 
 @media screen and (max-width: 620px) {
   .footer__copyright {
-    margin: 48px 0 0;
+    margin-top: 48px;
     line-height: 1;
-    justify-self: unset;
+
+    text-align: top;
+    align-self: flex-start;
   }
 }

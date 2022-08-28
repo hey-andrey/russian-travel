@@ -8,7 +8,7 @@
   flex-direction: column;
   align-content: center;
 
-  font-family: 'Inter', 'Arial', 'sans-serif';
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (max-width: 1160px) {

@@ -14,13 +14,6 @@
   text-align: center;
 }
 
-@media screen and (max-width: 560px) {
-  .cover__title {
-    max-width: 425px;
-    font-size: 52px;
-  }
-}
-
 @media screen and (max-width: 520px) {
   .cover__title {
     max-width: 288px;
