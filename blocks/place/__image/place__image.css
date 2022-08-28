@@ -6,7 +6,6 @@
 @media screen and (max-width: 620px) {
   .place__image {
     max-width: 100%;
-    grid-row: 2;
     grid-column: 1;
   }
 }

@@ -2,7 +2,7 @@
   margin: 0 auto;
   padding: 56px 0 0;
 
-  width: 984px;
+  max-width: 984px;
 
   display: flex;
   flex-direction: column;
