@@ -39,7 +39,7 @@
     max-width: 100%;
 
     row-gap: 32px;
-    grid-template-columns: ;
-    grid-template-rows: ;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
   }
 }
